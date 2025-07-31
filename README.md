@@ -1,6 +1,6 @@
-# **Ola, I'm Varun Krishna S (vhawk19) 👋**
+# ** ola, vhawk19 here 👋**
 
-Builder with 4 years of experience in the **Ethereum ecosystem**. Passionate about esoteric programming languages, databases, and blockchains.
+builder with 4 years of experience in the **Ethereum ecosystem**. Passionate about esoteric programming languages, databases, and blockchains.
 
 ### **🔭 currently working on**
 
@@ -14,7 +14,7 @@ Builder with 4 years of experience in the **Ethereum ecosystem**. Passionate abo
 * [**the DApp List**](https://thedapplist.com/): an app list for ethereum?  
 * [**savemo**](https://devfolio.co/projects/savemo): parsing sms, to build a pfm.
 
-### **📫 Find Me On**
+### **📫 gind Me On**
 
 * [**Farcaster**](https://farcaster.xyz/vhawk19)  
 * [**Twitter**](https://www.google.com/search?q=https://twitter.com/_Vhawk19_)  
